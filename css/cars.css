@@ -1,0 +1,19 @@
+*{margin: 0 auto; padding: 0;}
+html,body{
+	height: 100%;
+	font-family: sans-serif;
+}
+input[type="submit"],[type="text"]{
+	font-size: 0.5em;
+	padding:5px;
+	color:#890125;
+}
+
+
+.bodyone{
+display:flex;
+align-items: center;
+}
+.main-content{
+margin:0 auto;
+}
